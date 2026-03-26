@@ -1,5 +1,6 @@
 import React from 'react';
 import { MdDelete } from "react-icons/md";
+import { toast } from 'react-toastify';
 
 const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin }) => {
     console.log(selectedPlayers)
@@ -7,6 +8,7 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin })
         const filteredPlayers = selectedPlayers.filter(selectDeletePlayers => selectDeletePlayers.PlayerName !== player.PlayerName)
         setSelectedPlayers(filteredPlayers)
         setCoin(coin + player.price)
+        toast.warn(`Remove ${player.PlayerName}`)
     }
     return (
         <div>
@@ -23,7 +25,7 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin })
                                         <p>{player.playerType}</p>
                                     </div>
                                 </div>
-                                <MdDelete className='btn text-[#F14749]' onClick={()=>handleDeleteClicked(player)} />
+                                <MdDelete className='btn text-[#F14749]' onClick={() => handleDeleteClicked(player)} />
                             </div>
                         )
                     })
