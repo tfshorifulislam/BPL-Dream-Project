@@ -2,9 +2,24 @@ import React, { useState } from 'react';
 
 import { FaUser } from 'react-icons/fa';
 import { FaFlag } from "react-icons/fa6";
-const AllCards = ({ player }) => {
+const AllCards = ({ player, setCoin, coin }) => {
+    // console.log(coin, setCoin)
     const [isTrue, setIsTrue] = useState(false)
 
+    const handleChoosenPlayer = () => {
+        let newCoin = coin - player.price
+        if(newCoin >=0){
+            setCoin(coin - player.price)
+        }
+        else{
+            alert('Not Enough Coin To Purchase This Player')
+            return;
+        }
+        alert(`${player.PlayerName} is Selected`)
+        setIsTrue(true);
+
+
+    }
     return (
         <div>
             <div key={player.PlayerName} className="p-4 rounded-2xl border border-[#13131310] items-center shadow-lg">
@@ -47,8 +62,8 @@ const AllCards = ({ player }) => {
                                 className='font-semibold text-[#price]'>Price:{player.price}
                             </p>
                             <button
-                                disabled={isTrue? true : false}
-                                onClick={() => setIsTrue(true)}
+                                disabled={isTrue ? true : false}
+                                onClick={handleChoosenPlayer}
                                 className='btn font-normal text-[#131313]'>
                                 {isTrue ? 'Selected' : 'Choose Player'}
                             </button>
