@@ -18,7 +18,7 @@ const Hero = () => {
                         Beyond Boundaries Beyond Limits
                     </p>
                 </div>
-                <button className='bg-[#ffffff05] border-[#04663a] border rounded-2xl cursor-pointer'>
+                <button className='bg-[#ffffff05] border-[#04663a] border rounded-2xl cursor-pointer mb-7 md:mb-1'>
 
                     <div className='text-white font-bold bg-[#04663a] rounded-xl py-3.5 px-5  shadow-[4px_4px_20px_0_rgba(19, 19, 19, 1)] m-2'>
                         Claim Free Credit

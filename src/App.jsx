@@ -4,6 +4,7 @@ import Hero from './Components/Hero/Hero'
 import NavBar from './Components/NavBar/NavBar'
 import Players from './Components/Players/Players'
 
+
 const fetchPlayers = async () => {
   const res = await fetch('/data.json')
   return res.json();
