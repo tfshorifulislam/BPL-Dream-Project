@@ -1,0 +1,307 @@
+[
+  {
+    "PlayerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 120000,
+    "playerImg": "https://i.ibb.co.com/kfsFwq5/melbourne-australia-virat-kohli-of-india-celebrates-winning-the-icc-mens-t20-world-cup-match.webp"
+  },
+  {
+    "PlayerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 96,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 110000,
+    "playerImg": "https://i.ibb.co.com/dX6K2b0/dallas-texas-babar-azam-of-pakistan-poses-for-a-portrait-prior-to-the-icc-mens-t20-cricket.webp"
+  },
+  {
+    "PlayerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 95,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Right-hand bat",
+    "price": 100000,
+    "playerImg": "https://i.ibb.co.com/G3b6k5PM/joe-root-cricket-bat-cstgq83tkggk7xsu.webp"
+  },
+  {
+    "PlayerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 95,
+    "ballingStyle": "Leg break",
+    "batingStyle": "Right-hand bat",
+    "price": 105000,
+    "playerImg": "https://i.ibb.co.com/G4ZpWCb1/australias-steve-smith-celebrates-after-scoring-a-half-century-during-the-2023-icc-mens.webp"
+  },
+  {
+    "PlayerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 94,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Right-hand bat",
+    "price": 98000,
+    "playerImg": "https://i.ibb.co.com/LXvDmFSJ/Kane-Williamson-1.webp"
+  },
+
+  {
+    "PlayerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 97,
+    "ballingStyle": "Left-arm orthodox",
+    "batingStyle": "Left-hand bat",
+    "price": 115000,
+    "playerImg": "https://i.ibb.co.com/9Hd5MzGG/360-F-624693772-Na-G3-PE7-SRAq-HASu-ITh7-Ae-E5e52q4g-EPy.webp"
+  },
+  {
+    "PlayerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 96,
+    "ballingStyle": "Right-arm fast-medium",
+    "batingStyle": "Left-hand bat",
+    "price": 120000,
+    "playerImg": "https://i.ibb.co.com/DHSXf66w/ben-stokes-england-team-captain-9lnz8wd6kgsusev8.webp"
+  },
+  {
+    "PlayerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "rating": 92,
+    "ballingStyle": "Right-arm fast-medium",
+    "batingStyle": "Right-hand bat",
+    "price": 100000,
+    "playerImg": "https://i.ibb.co.com/1JRDBn9j/indias-hardik-pandya-celebrates-the-dismissal-of-south-africas-kagiso-rabada-during-the-icc.webp"
+  },
+  {
+    "PlayerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 97,
+    "ballingStyle": "Leg break googly",
+    "batingStyle": "Right-hand bat",
+    "price": 110000,
+    "playerImg": "https://i.ibb.co.com/8LKDfKrQ/Whats-App-Image-2023-10-31-at-02-40-20.webp"
+  },
+  {
+    "PlayerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 94,
+    "ballingStyle": "Left-arm fast",
+    "batingStyle": "Left-hand bat",
+    "price": 102000,
+    "playerImg": "https://i.ibb.co.com/7JST4jdM/sydney-australia-mitchell-starc-of-australia-catches-the-ball-during-game-three-of-the-one.webp"
+  },
+
+  {
+    "PlayerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 96,
+    "ballingStyle": "Right-arm fast",
+    "batingStyle": "Right-hand bat",
+    "price": 108000,
+    "playerImg": "https://i.ibb.co.com/s9Hvj4jc/brisbane-australia-jasprit-bumrah-of-india-celebrates-after-dismissing-marnus-labuschagne-of.webp"
+  },
+  {
+    "PlayerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 93,
+    "ballingStyle": "Left-arm fast-medium",
+    "batingStyle": "Right-hand bat",
+    "price": 95000,
+    "playerImg": "https://i.ibb.co.com/0Rx1yZpD/53c591588e969864124b7b5169c4e3dc-1024x575.webp"
+  },
+  {
+    "PlayerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 91,
+    "ballingStyle": "None",
+    "batingStyle": "Left-hand bat",
+    "price": 97000,
+    "playerImg": "https://i.ibb.co.com/W4GrCzVd/david-warner-white-shirt-joyjwfpix9o61ty1.webp"
+  },
+  {
+    "PlayerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 94,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Right-hand bat",
+    "price": 103000,
+    "playerImg": "https://i.ibb.co.com/pvx0LFkp/indias-captain-rohit-sharma-fields-during-the-fourth-day-of-the-second-test-cricket-match.webp"
+  },
+  {
+    "PlayerName": "KL Rahul",
+    "playerCountry": "India",
+    "playerType": "Wicketkeeper",
+    "rating": 90,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 92000,
+    "playerImg": "https://i.ibb.co.com/Dc85zfZ/kl-rahul-best-t20-batter-eiuuqc7irw0zam5p.webp"
+  },
+
+  {
+    "PlayerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper",
+    "rating": 95,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 110000,
+    "playerImg": "https://i.ibb.co.com/mpdq50V/bridgetown-barbados-jos-buttler-of-england-looks-on-during-the-third-cg-united-one-day.webp"
+  },
+  {
+    "PlayerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper",
+    "rating": 92,
+    "ballingStyle": "None",
+    "batingStyle": "Left-hand bat",
+    "price": 98000,
+    "playerImg": "https://i.ibb.co.com/BVFTcRvF/Quinton-de-Kock-2.webp"
+  },
+
+  {
+    "PlayerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "rating": 89,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 85000,
+    "playerImg": "https://i.ibb.co.com/B2bs5Th7/topshot-bangladeshs-mushfiqur-rahim-celebrates-after-scoring-a-century-during-the-second-day.webp"
+  },
+  {
+    "PlayerName": "Mahmudullah",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 88,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Right-hand bat",
+    "price": 82000,
+    "playerImg": "https://i.ibb.co.com/ksNZM6Sw/mahmudullah-1200.webp"
+  },
+
+  {
+    "PlayerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 87,
+    "ballingStyle": "None",
+    "batingStyle": "Left-hand bat",
+    "price": 80000,
+    "playerImg": "https://i.ibb.co.com/hRY4sxK8/gettyimages-1308580195-1-1643292155.webp"
+  },
+
+  {
+    "PlayerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "rating": 88,
+    "ballingStyle": "None",
+    "batingStyle": "Right-hand bat",
+    "price": 83000,
+    "playerImg": "https://i.ibb.co.com/fV9cZRN9/dallas-texas-litton-das-of-bangladesh-looks-dejected-while-leaving-the-field-after-being.webp"
+  },
+
+  {
+    "PlayerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 91,
+    "ballingStyle": "Left-arm fast-medium",
+    "batingStyle": "Left-hand bat",
+    "price": 90000,
+    "playerImg": "https://i.ibb.co.com/mk7btYh/153897622.webp"
+  },
+
+  {
+    "PlayerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 94,
+    "ballingStyle": "Left-arm fast",
+    "batingStyle": "Left-hand bat",
+    "price": 102000,
+    "playerImg": "https://i.ibb.co.com/4gN3kQnf/1703516256915-shah.webp"
+  },
+
+  {
+    "PlayerName": "Fakhar Zaman",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 89,
+    "ballingStyle": "None",
+    "batingStyle": "Left-hand bat",
+    "price": 86000,
+    "playerImg": "https://i.ibb.co.com/d0XqcYVM/birmingham-england-fakhar-zaman-of-pakistan-walks-to-the-nets-during-a-nets-session-at.webp"
+  },
+
+  {
+    "PlayerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-rounder",
+    "rating": 93,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Right-hand bat",
+    "price": 101000,
+    "playerImg": "https://i.ibb.co.com/d16CNHY/glenn-maxwell-yellow-green-uniform-uvf5ypdexwf0gsfk.webp"
+  },
+
+  {
+    "PlayerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 95,
+    "ballingStyle": "Right-arm fast",
+    "batingStyle": "Right-hand bat",
+    "price": 115000,
+    "playerImg": "https://i.ibb.co.com/ycn4NVr1/3414517.webp"
+  },
+
+  {
+    "PlayerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 90,
+    "ballingStyle": "Right-arm off break",
+    "batingStyle": "Left-hand bat",
+    "price": 88000,
+    "playerImg": "https://i.ibb.co.com/ZRB4QHqc/leeds-england-chris-gayle-of-west-indies-acknowledges-the-crowd-as-he-walks-off-after-being.webp"
+  },
+
+  {
+    "PlayerName": "Sunil Narine",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 92,
+    "ballingStyle": "Off spin",
+    "batingStyle": "Left-hand bat",
+    "price": 97000,
+    "playerImg": "https://i.ibb.co.com/XrLqLY5K/kandy-sri-lanka-sunil-narine-of-west-indies-celebrates-the-wicket-of-martin-guptill-during-the.webp"
+  },
+
+  {
+    "PlayerName": "Dwayne Bravo",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 91,
+    "ballingStyle": "Right-arm medium",
+    "batingStyle": "Right-hand bat",
+    "price": 90000,
+    "playerImg": "https://i.ibb.co.com/DDvtpyNn/kolkata-west-bengal-dwayne-bravo-of-the-west-indies-celebrates-dismissing-ben-stokes-of.webp"
+  }
+
+]
