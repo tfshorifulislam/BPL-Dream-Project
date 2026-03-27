@@ -66,7 +66,7 @@ const AllCards = ({ player, setCoin, coin, selectedPlayers, setSelectedPlayers }
                             <button
                                 disabled={isTrue ? true : false}
                                 onClick={handleChoosenPlayer}
-                                className='btn font-normal text-[#131313]'>
+                                className={`btn btn-xs sm:btn-sm md:btn-md ${isTrue?'bg-gray-500': 'bg-[#04663a]'} text-white font-normal`}>
                                 {isTrue ? 'Selected' : 'Choose Player'}
                             </button>
                         </div>
