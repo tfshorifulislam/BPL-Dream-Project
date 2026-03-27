@@ -12,7 +12,7 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, setCoin, coin })
     }
     return (
         <div>
-            <div className='mt-8 space-y-6'>
+            <div className='mt-8 space-y-6 mb-72'>
                 {
                     selectedPlayers.length === 0 ?
                         <div className='flex flex-col justify-center items-center h-56'>

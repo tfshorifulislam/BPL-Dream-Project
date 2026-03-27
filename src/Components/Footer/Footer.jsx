@@ -1,8 +1,12 @@
 import React from 'react';
 import Logo from '../../assets/logo-footer.png'
+import NewsLetter from '../NewsLetter/NewsLetter';
 const Footer = () => {
     return (
-        <div>
+        <div className='relative'>
+
+            <NewsLetter />
+
             <footer className='sm:footer-horizontal bg-[#06091A]'>
                 <div className="pt-60 pb-18 px-35 ">
                     <div className='flex justify-center items-center mb-16'>
