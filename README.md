@@ -1,16 +1,40 @@
-# React + Vite
+# 🏏 BPL Dream Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BPL Dream Project is a modern and responsive web application showcasing **Bangladesh Premier League (BPL)** teams, players, and match data. Designed for both fun and learning, this project helps practice React, component architecture, and frontend development skills while working with dynamic data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+[Check Live Demo](https://bpl-team-select.netlify.app/) 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Display all BPL players dynamically  
+- Create your own Dream Team  
+- Budget management for team selection  
+- Responsive and clean UI with modern design  
+- Reusable React components  
+- Performance optimized for smooth user experience  
+
+---
+
+## 💻 Technologies Used
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)  
+- **Data:** JSON / REST API  
+- **Tools:** Vite, Node.js, NPM  
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+ ├── assets/           # Images, logos, icons
+ ├── components/       # Reusable components (PlayerCard, Footer, NewsLetter, etc.)
+ ├── pages/            # Pages like Home, Teams, DreamTeam
+ ├── App.jsx           # Main App component
+ └── main.jsx          # Entry point
